@@ -5,6 +5,7 @@ void setup() {
   pinMode(i, OUTPUT);
  }
  pinMode(10, INPUT);
+ pinMode(11, INPUT);
 } 
 
 void loop() {
