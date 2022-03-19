@@ -47,4 +47,6 @@ That is all, enjoy the new theme!
 ![image](https://user-images.githubusercontent.com/77877967/159138201-87ddac9a-23be-4634-994d-d336ab09d971.png)
 
 # CODE
+```C++
 editor.font=Consolas, plain, 14
+```
